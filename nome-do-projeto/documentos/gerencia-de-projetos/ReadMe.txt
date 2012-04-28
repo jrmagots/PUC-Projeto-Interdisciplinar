@@ -1,1 +1,0 @@
-contém os artefatos relacionados com a execução do processo de gerência de projetos
