@@ -1,0 +1,1 @@
+contém as descrições relacionadas com a gestão de configuração.

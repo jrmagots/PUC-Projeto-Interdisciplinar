@@ -1,0 +1,1 @@
+ contém o código fonte do projeto (internamente, seguir estrutura de pasta de acordo com definição de arquitetura ou framework utilizado)
