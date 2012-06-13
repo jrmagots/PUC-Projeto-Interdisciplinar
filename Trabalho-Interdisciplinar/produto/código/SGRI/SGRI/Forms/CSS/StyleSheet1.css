@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿body
     {
         background-color:transparent;
@@ -21,4 +22,29 @@
         position:relative;
         font-size:x-large;
         top: 0mm;
+=======
+﻿body
+    {
+        background-color:transparent;
+        margin:13mm;
+        width: auto;
+    }
+    .foot
+    {
+        margin-left:5mm;
+        font-weight:bold;
+    }
+    .tableDiv
+    {
+        width: auto;
+    }
+    
+    .logo 
+    {
+        color: Blue;
+        font-weight:bold;
+        position:relative;
+        font-size:x-large;
+        top: 0mm;
+>>>>>>> 738a82f4e06725b886b2019a1a6c4c845a90a75a
     }

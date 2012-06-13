@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿body {
 }
 .labelLogin
@@ -46,4 +47,54 @@
     height:8mm;
     width:20mm;
     margin-top:2mm;
+=======
+﻿body {
+}
+.labelLogin
+{
+    position:absolute;
+    left: 54mm;
+    margin-top:2mm;
+    font-size:medium;
+    font-weight:bold;;
+}
+.labelSenha
+{
+    position:absolute;
+    left: 54mm;
+    margin-top:2mm;
+    font-size:medium;
+    font-weight:bold;
+}
+.textLogin
+{
+    position:relative;
+    left: 68mm;
+    margin-top:2mm;
+    height:5mm;
+}
+.textSenha
+{
+    position:relative;
+    left: 68mm;
+    margin-top:2mm;
+    height:5mm;
+    top: 0px;
+}
+.btnEnter
+{
+    position:relative;
+    left:68mm;
+    height:8mm;
+    width:20mm;
+    margin-top:2mm;
+}
+.btnCancel
+{
+    position:relative;
+    left:68mm;
+    height:8mm;
+    width:20mm;
+    margin-top:2mm;
+>>>>>>> 738a82f4e06725b886b2019a1a6c4c845a90a75a
 }

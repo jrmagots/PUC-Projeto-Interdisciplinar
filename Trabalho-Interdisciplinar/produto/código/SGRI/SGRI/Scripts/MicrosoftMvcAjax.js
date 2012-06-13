@@ -2,7 +2,11 @@
 // Copyright (C) Microsoft Corporation. All rights reserved.
 //----------------------------------------------------------
 // MicrosoftMvcAjax.js
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> 738a82f4e06725b886b2019a1a6c4c845a90a75a
 Type.registerNamespace('Sys.Mvc');Sys.Mvc.$create_AjaxOptions=function(){return {};}
 Sys.Mvc.InsertionMode=function(){};Sys.Mvc.InsertionMode.prototype = {replace:0,insertBefore:1,insertAfter:2}
 Sys.Mvc.InsertionMode.registerEnum('Sys.Mvc.InsertionMode',false);Sys.Mvc.AjaxContext=function(request,updateTarget,loadingElement,insertionMode){this.$3=request;this.$4=updateTarget;this.$1=loadingElement;this.$0=insertionMode;}

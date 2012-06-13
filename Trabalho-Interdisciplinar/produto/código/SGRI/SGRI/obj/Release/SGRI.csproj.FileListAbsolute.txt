@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 C:\Users\Rafael\documents\visual studio 2010\Projects\SGRI\SGRI\bin\SGRI.dll
 C:\Users\Rafael\documents\visual studio 2010\Projects\SGRI\SGRI\bin\SGRI.pdb
 C:\Users\Rafael\documents\visual studio 2010\Projects\SGRI\SGRI\obj\Release\ResolveAssemblyReference.cache
 C:\Users\Rafael\documents\visual studio 2010\Projects\SGRI\SGRI\obj\Release\SGRI.dll
 C:\Users\Rafael\documents\visual studio 2010\Projects\SGRI\SGRI\obj\Release\SGRI.pdb
+=======
+C:\Users\Rafael\documents\visual studio 2010\Projects\SGRI\SGRI\bin\SGRI.dll
+C:\Users\Rafael\documents\visual studio 2010\Projects\SGRI\SGRI\bin\SGRI.pdb
+C:\Users\Rafael\documents\visual studio 2010\Projects\SGRI\SGRI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Rafael\documents\visual studio 2010\Projects\SGRI\SGRI\obj\Release\SGRI.dll
+C:\Users\Rafael\documents\visual studio 2010\Projects\SGRI\SGRI\obj\Release\SGRI.pdb
+>>>>>>> 738a82f4e06725b886b2019a1a6c4c845a90a75a
